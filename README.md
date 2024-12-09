@@ -11,7 +11,7 @@
 ###
 
 <div >
-    <img align="left"
+    <img align="center"
         src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif" 
         alt="Ảnh động vui nhộn" 
         title="Hình GIF thú vị!" 
@@ -37,7 +37,7 @@
   <img width="12" />
   <img align="center" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" height="30" alt=""  />
     
-<img align="right" height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEwMWlkY2N6Mnc1dWgyMm53aW9qM2M4anFoaW1jdmNkanhoZGFpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
+<img align="center" height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEwMWlkY2N6Mnc1dWgyMm53aW9qM2M4anFoaW1jdmNkanhoZGFpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
 </div>
 
 
