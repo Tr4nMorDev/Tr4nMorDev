@@ -51,7 +51,7 @@
 <div align="center">
 <img height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEwMWlkY2N6Mnc1dWgyMm53aW9qM2M4anFoaW1jdmNkanhoZGFpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
 </div>
-<h2 align="center">━━━━━━━━━━━━━━::::: 🧡 ━━━━━━━━━━━━━━ 🧡 :::::━━━━━━━━━━━━━━</h2>
+<h2 align="center">━━━━━━━━━━::::: 🧡 ━━━━━━━━━━━━━━ 🧡 :::::━━━━━━━━━━</h2>
 
 ###
 
