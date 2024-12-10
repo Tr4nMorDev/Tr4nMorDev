@@ -38,10 +38,12 @@
   <img width="12" />
   <img src="https://cdn.dribbble.com/users/9890697/screenshots/17032245/mongo.gif" height="30" alt=""  />
   <img width="12" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0eXQ2b3drNXdiZHhyMmFsZmZ1djlkNHprb2loN3d4Y2F6bHgwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cWOCmbWcGk5MhX8ZhV/giphy-downsized-large.gif" height="30" alt=""  />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0eXQ2b3drNXdiZHhyMmFsZmZ1djlkNHprb2loN3d4Y2F6bHgwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cWOCmbWcGk5MhX8ZhV/giphy-downsized-large.gif" height="30" alt="taiwild"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" height="30" alt=""  />
-  <img src="https://blog.chun.no/images/2014-06-01-docker.gif" height="30" alt=""  />
+  <img src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" height="30" alt="js"  />
+  <img src="https://blog.chun.no/images/2014-06-01-docker.gif" height="30" alt="docker"  />
+  <img src="https://media3.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" height="30" alt="sql"  />
+  
   <br clear="both">
    </div>
   <h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
