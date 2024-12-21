@@ -24,7 +24,7 @@
 ###
 
 <h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
-<h2 align="center">These are the things i am learning </h2>
+<h2 align="center"> </h2>
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRvc2x1bTBtb2hqZTkwZWZ4eGE3ZXh5ZTF1ZjZzbHF3dXNmenQ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="30" alt="github"  />
@@ -56,7 +56,7 @@
   
    </div>
   <h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
-<h2 align="center"> The ecosystem I want to pursue </h2>
+<h2 align="center">  </h2>
 <div align="center">
 <img src="https://cdn.dribbble.com/users/192882/screenshots/4659605/media/c291dcfccf93b83e58744c56060f440a.gif" height="150" width="200" alt="taiwild"  />
  
