@@ -56,15 +56,7 @@
   
    </div>
   <h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
-<h2 align="center">  </h2>
-<div align="center">
-<img src="https://cdn.dribbble.com/users/192882/screenshots/4659605/media/c291dcfccf93b83e58744c56060f440a.gif" height="150" width="200" alt="taiwild"  />
- 
-</div>
-    
-<h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
 
-<h2 align="center">━━━━━━━━━━::::: 🧡 ━━━━━━━━━━━━━━ 🧡 :::::━━━━━━━━━━</h2>
 
 ###
 
