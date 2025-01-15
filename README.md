@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Phong and I'm a rust deverloper, from vietnam</h2>
+<h2 align="center">Hi 👋! My name is Phong </h2>
 
 ###
 
