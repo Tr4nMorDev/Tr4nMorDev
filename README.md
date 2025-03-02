@@ -25,6 +25,12 @@
   
 </p>
 
+<p align="center">
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+</p>
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  />
