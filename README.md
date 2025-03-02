@@ -1,76 +1,63 @@
-<h2 align="center">Hi 👋! My name is Phong </h2>
+<h1 align="center">Hi 👋, I'm Phong</h1>
+<p align="center">I am currently learning about Solidity, Rust, and Sui</p>
 
-###
+<h2 align="center">🚀 Languages and Tools I Use</h2>
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="padding:10px; background:#f0f0f0; border:2px solid #ddd;"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">⚡️ Where to find me</h2>
+<p align="center">
+  <a href="https://www.facebook.com/TranPhong" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr4nMorDev&" alt="Tr4nMorDev" />
+</p>
 
-###
-<div align="center">
-    <img 
-        src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif" 
-        alt="Ảnh động vui nhộn" 
-        title="Hình GIF thú vị!" 
-        width="300" 
-        height="150" 
-        style="border: 10px; box-shadow: 2px 4px 6px rgba(0,0,0,0.5);" 
-        loading="lazy" 
-        decoding="async" />
-  </div>
-  
-###
-
-<h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
-<h2 align="center"> </h2>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRvc2x1bTBtb2hqZTkwZWZ4eGE3ZXh5ZTF1ZjZzbHF3dXNmenQ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="30" alt="github"  />
-  <img width="12" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d1cmZpa2c2bTFycmo4b3VqdWZhczM1dGE4ejRydG95cGMyNm90MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" height="30" alt="git"  />
-  <img width="12" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhuN25tODRjMHBoazBnbm50b3F0Njh6OXMwaXg1cDc2dzhzZGIxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" height="30" alt="react"  />
-  <img width="12" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pzbXdnN25idTd1eTQ4eXRjZm5lcTFuZXJ5c3F5aWFpZHZwdXMzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" height="30" alt=""  />
-  <img width="12" />
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705116187638/b3a314d9-d8b1-4a0c-91da-259f588bb470.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.dribbble.com/users/9890697/screenshots/17032245/mongo.gif" height="30" alt=""  />
-  <img width="12" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0eXQ2b3drNXdiZHhyMmFsZmZ1djlkNHprb2loN3d4Y2F6bHgwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cWOCmbWcGk5MhX8ZhV/giphy-downsized-large.gif" height="30" alt="taiwild"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" height="30" alt="js"  />
-   <img width="12" />
-  <img src="https://blog.chun.no/images/2014-06-01-docker.gif" height="30" alt="docker"  />
-   <img width="12" />
-  <img src="https://media3.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" height="30" alt="sql"  />
-   <img width="12" />
-  <img src="https://i.redd.it/nfndq1ljac771.gif" height="30" alt="etherium"  />
-  <img width="12" />
-  <img src="https://blog.flipsidecrypto.com/wp-content/uploads/2021/11/SolanaSpin_Notion_01-1.gif" height="30"  alt="solana"  />
-  <img width="12" />
-  <img src="https://media1.tenor.com/m/kUtxXnZmGvUAAAAC/bnb-wikimadao.gif" height="30"  alt="bnb"  />
-  <br clear="both">
-  
-   </div>
-  <h2 align="center">▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</h2>
-
-
-###
-
-<div align="left">
-  <img src="" height="35" alt=""  />
-  <img src="" height="35" alt=""  />
-  <img src="" height="35" alt=""  />
-  <img src="" height="35" alt=""  />
-  <img src="" height="35" alt=""  />
-  <img src="" height="35" alt=""  />
-</div>
-
-###
-
-<br clear="both">
-
-###
+<h2 align="center">❤️ Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Phong">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+  </a>
+</p>
