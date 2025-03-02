@@ -27,9 +27,7 @@
 
 <p align="center">
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/Tr4nMorDev/output/main/snake.svg" alt="Snake animation" />
 </p>
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
@@ -48,7 +46,7 @@
 
 <h2 align="center">❤️ Support Me</h2>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Phong">
+  <a href="https://buymeacoffee.com/tr4nmordev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   </a>
 </p>
