@@ -19,7 +19,9 @@
 </p>
 <p align="center">
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Tr4nMorDev/output/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tr4nMorDev/Tr4nMorDev/output/snake.svg" alt="Snake animation" />
+
+
 </p>
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
