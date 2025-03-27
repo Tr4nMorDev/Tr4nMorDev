@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phong </h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tr4nMorDev&label=Total%20Views&color=0e75b6&style=flat" alt="Total Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tr4nMorDev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views%20Today&edge_flat=false&mode=day" alt="Views Today" />
+  <img src="https://komarev.com/ghpvc/?username=Tr4nMorDev&label=Total%20Views&color=0e75b6&style=flat" alt="Views" />
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tr4nMorDev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views%20Today&edge_flat=false&mode=day" alt="Views Today" /> -->
 </div>
 
 <p align="center">I am currently learning about Solidity, Rust, and Sui </p>
