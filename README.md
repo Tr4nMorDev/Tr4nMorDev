@@ -25,24 +25,24 @@
 </p>
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
-  <a href="https://www.youtube.com/@Zeri_Two" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.youtube.com/@Zeri_Two" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  />
     </a>
   <a href="https://www.instagram.com/mortailposh/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
+    </a> -->
   <a href="https://discord.com/users/683542145117978663" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Profile" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="Discord Profile" />
 </a>
-  <a href="mailto:tranphongzhouzhou@gmail.com" target="_blank" rel="noopener noreferrer">
+<!--   <a href="mailto:tranphongzhouzhou@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-phong-08154633a/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/tranphong016/" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.facebook.com/tranphong016/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
