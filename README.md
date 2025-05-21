@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  🚀 Backend Intern (Web2)
-  🎯 Focused on backend development using Spring Boot or nodejs , Docker, CI/CD, Git, and Linux.
+  🚀 Backend Intern - Devops intern (Web2)
+  🎯 Focused on DevOps with hands-on experience in Spring Boot or Node.js, Docker, CI/CD, Git, and Linux.
   🛠️ Experience with building microservices, Prometheus — currently learning and practicing.
   💼 Looking for any backend internship opportunity to gain real-world experience and improve skills.
   😄 Ready to learn and contribute—no drama, just code!
